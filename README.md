@@ -1,6 +1,6 @@
-# 4D Setup Teams Dialog with AG Grid
+# Dialog with AG Grid
 
-This repository contains a React-based implementation of the 4D Setup Teams dialog using AG Grid technology. It includes advanced AG Grid concepts and custom functionalities such as drag and drop, sorting of group nodes, and more.
+This repository contains a React-based implementation of a dialog using AG Grid technology. It includes advanced AG Grid concepts and custom functionalities such as drag and drop, sorting of group nodes, and more.
 
 ## Documentation
 
